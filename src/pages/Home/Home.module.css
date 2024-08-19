@@ -1,0 +1,17 @@
+.homeContainer {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/public/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.homeContent {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
